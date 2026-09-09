@@ -72,6 +72,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
