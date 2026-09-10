@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
