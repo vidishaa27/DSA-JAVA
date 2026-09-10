@@ -75,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0136-single-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
