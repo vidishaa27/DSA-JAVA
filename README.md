@@ -224,6 +224,7 @@
 | [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
