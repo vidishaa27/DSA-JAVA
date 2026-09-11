@@ -65,6 +65,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
