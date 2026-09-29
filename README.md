@@ -78,6 +78,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [0509-fibonacci-number](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | [0328-odd-even-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
