@@ -43,6 +43,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
