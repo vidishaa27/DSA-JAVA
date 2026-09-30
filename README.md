@@ -96,6 +96,7 @@
 | [0206-reverse-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0061-rotate-list](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0061-rotate-list/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/vidishaa27/21-Days-DSA-Challenge/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
